@@ -1,12 +1,16 @@
-## Hi there 👋
+![Cyborgs Development]()
 
-<!--
 
-**Here are some ideas to get you started:**
+### Hi there 👋
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Welcome to our awesome organization page. Glad to have you here! 
+
+
+We are currently building our platform and might eventually produce some open source tooling as well. Keep an eye out for big moves 🧙🧙
+
+
+
+### When I do DevOps stuff
+
+[![Tools We use](https://skillicons.dev/icons?i=vuee&perline=18)](https://skillicons.dev)
+
