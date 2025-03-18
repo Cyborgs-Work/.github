@@ -10,5 +10,5 @@ We are currently building our platform and might eventually produce some open so
 
 
 
-[![Tools We use](https://skillicons.dev/icons?i=vue&perline=18)](https://skillicons.dev)
+[![Tools We use](https://skillicons.dev/icons?i=vue,supabase,nuxtjs&perline=18)](https://skillicons.dev)
 
